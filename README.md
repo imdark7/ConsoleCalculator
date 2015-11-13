@@ -1,3 +1,3 @@
 # ConsoleCalculator
-simple calculator for 2 numbers. \n
+simple calculator for 2 numbers.
 Yeah!
